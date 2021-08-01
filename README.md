@@ -1,5 +1,4 @@
 
-### Submission by Sachin Dangayach
 
 # Objective
 
@@ -10,7 +9,7 @@
 
 # Solution -
 
-[Colab Link](https://colab.research.google.com/drive/16rrx_ow0wbFDR2G1lyAlPkk7_S7_aoyE?usp=sharing)
+
 
 ## Data Preparation
 
@@ -58,8 +57,8 @@
 
           encoder_outputs[i] += output[0,0]
 
-  ***output***
-  ![Encoder output](https://github.com/SachinDangayach/END2.0/blob/main/Session11/images/i_1.PNG)
+
+  
 
 
 ## Feed forward steps for decoder
